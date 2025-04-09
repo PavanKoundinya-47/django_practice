@@ -29,7 +29,6 @@ ALLOWED_HOSTS = []
 # Application definition
 
 INSTALLED_APPS = [
-    "test_table",
     "test_db",
     "users",
     "crispy_forms",
