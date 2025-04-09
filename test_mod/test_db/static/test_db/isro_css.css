@@ -1,0 +1,191 @@
+/* 
+Document   : browse
+Created on : Aug 22, 2008, 11:55:40 AM
+Author     : Administrator
+Description:
+Purpose of the stylesheet follows.
+*/
+
+/* 
+Syntax recommendation http://www.w3.org/TR/REC-CSS2/
+*/
+
+root { 
+    display: block;
+    font-family: Arial,Helvetica,sans-serif;
+    font-size: 10px;
+}
+.style1 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-weight: normal;
+	font-size: 14px;
+	color: #663333;
+}
+.style2 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-weight: bold;
+	font-size: 16px;
+	color: #0000FF;
+}
+.normal {
+    
+    font-family: Arial,Helvetica,sans-serif;
+    font-size: 10pt;
+}
+.normal_small_bold {
+    
+    font-family: Arial,Helvetica,sans-serif;
+    font-size: 12pt;
+}
+.normal_big_bold {
+    
+    font-family: Arial,Helvetica,sans-serif;
+    font-size: 12pt;
+}
+.normal_bold_color {
+    
+    font-family: Arial,Helvetica,sans-serif;
+    font-size: 10pt;
+    color: #ff0000;
+}
+.normal_bold {
+    
+    font-family: Arial,Helvetica,sans-serif;
+    font-size: 10pt;
+    
+}
+.table1 {
+    
+    
+  
+    
+    
+}
+
+.link {
+	FONT-SIZE: 14px;
+	FONT-Weight: Bold;
+	COLOR: #FFFFFF;
+	FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif;
+	PADDING-left:2px;
+	PADDING-RIGHT:2px;
+
+
+}
+.link1 {
+	FONT-SIZE: 14px;
+	FONT-Weight: Bold;
+	COLOR: #000000;
+	FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif;
+	PADDING-left:2px;
+	PADDING-RIGHT:2px;
+
+
+}
+.dot1 {
+	FONT-SIZE: 14px;
+	FONT-Weight: Bold;
+	COLOR: #FFFFFF;
+	FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif;
+	
+
+}
+.table1_bck {
+    
+    
+   background-image: url(images/bck1.gif);
+    
+    
+}
+.imgclass {
+    
+    
+   background-image: url(/CHBrowse/images/ch1-top.jpg);
+    
+    
+}
+.test1 {
+    
+    font-family: sans-serif;
+    font-size: 24pt;
+    border-top-style: dotted;
+    border-bottom-style: dotted;
+    border-left-style: dotted;
+    border-right-style: dotted;
+    border-top-width: 3px;
+    border-bottom-width: 3px;
+    border-left-width: 3px;
+    border-right-width: 3px;
+}
+
+
+
+.hyper {
+    
+}
+
+.top1 {
+      font-family: Book Antiqua;
+    font-size: 30px;
+  
+    text-indent: 4px;
+    color: #0000FF;
+
+  border-top-width: 8px;
+
+  border-bottom-width: 8px;
+
+  border-left-width: 8px;
+
+  border-right-width: 8px;
+
+  border-top-color: #330033;
+
+  border-bottom-color: #330033;
+
+  border-left-color: #330033;
+
+  border-right-color: #330033;
+}
+.table_color_1 {
+    
+    font-family: Arial,Helvetica,sans-serif;
+    font-size: 12px;
+    background-color: #C0C0C0;
+    text-indent: 1px;
+    color: #000000;
+}
+.table_color_2 {
+    
+    font-family: Arial,Helvetica,sans-serif;
+    font-size: 12px;
+    background-color: #ffffff;
+    text-indent: 1px;
+    color: #000000;
+}
+.table_color_1 {
+    
+    background-color:  #C0C0C0;
+    
+    font-family: Arial,Helvetica,sans-serif;
+    font-size: 12px;
+}
+
+.table_color_0 {
+    font-family: Arial,Helvetica,sans-serif;
+    font-size: 12px;
+    background-color: #ffffff;
+}
+.scroll1 {
+    
+  font-family: Arial,Helvetica,sans-serif;
+  font-size: 25pt;
+  
+
+  text-align: center;
+ 
+  font-weight: bold;
+ 
+
+  color: #0000FE;
+}

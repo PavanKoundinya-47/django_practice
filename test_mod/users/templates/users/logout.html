@@ -1,0 +1,9 @@
+{% extends "test_db/base.html" %}
+{% block content %}
+    <h2>You Have Been Logged Out</h2>
+    <div class="container content-section">
+        <small class="text-muted">
+            <a class="ml-2" href="{% url 'login' %}">Log In Again</a>
+        </small>
+    </div>
+{% endblock content %}
